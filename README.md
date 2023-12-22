@@ -1,2 +1,2 @@
 # chatwithani
-This is a Chatting App
+This is a Chatting App using React javascript 
